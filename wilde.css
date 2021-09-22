@@ -1,0 +1,59 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:rgb(20,40,30);
+    
+    font-weight: normal;
+  }
+  .stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(238, 144, 199);
+    display: inline;
+  }
+  .stage-direction:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 20, 88);
+  }
+  .name:hover{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(113, 28, 192);
+    font-size: 20px;
+    text-shadow: 2px 2px 5px rgb(47, 166, 221);
+  }
+  .DUCHESS{
+    color: rgb(151, 77, 118);
+    font-size: 20px;
+  }
+  .DUKE{
+    color: rgb(130, 113, 163);
+    font-size: 20px;
+  }
+  .SECONDCITIZEN{
+    color: rgb(130, 155, 127);
+    font-size: 20px;
+  }
+  .FIRSTCITIZEN{
+    color: rgb(68, 111, 136);
+    font-size: 20px;
+  }
+  
+  .BARDI{
+      color: rgb(16, 214, 98);
+      font-size: 20px;
+    }
+    .GUIDO{
+      color: rgb(97, 18, 107);
+      font-size: 20px;
+    }
+    .CARDINAL{
+      color: rgb(146, 84, 14);
+      font-size: 20px;
+    }
+    .MAFFIO{
+      color: rgb(155, 147, 32);
+      font-size: 20px;
+    }
+    
+  
