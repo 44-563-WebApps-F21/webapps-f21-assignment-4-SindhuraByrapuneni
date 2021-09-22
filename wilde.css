@@ -55,5 +55,29 @@
       color: rgb(155, 147, 32);
       font-size: 20px;
     }
-    
+
+
+    table{
+        width: fit-content;
+        border: 4px double rgb(165, 30, 30);
+        text-align: left;
+        padding: 15px;
+    }
+    tr:nth-child(even){
+        background-color: #261185;}
+    td{
+        border: 1px solid rgb(70, 44, 44);
+    }
+    th{
+        border: 1px solid rgb(88, 150, 93);
+        color:rgb(201, 191, 56);
+    }
+    th,td {
+        border: 1px solid rgb(211, 175, 175);
+    }
+    tr:hover {
+        background-color: rgb(141, 27, 103);}
+        .wilde.css {
+          box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+        }
   
